@@ -16,7 +16,7 @@ var dogs = [
   },
   {
     "dog_id": "3",
-    "dog_name": "Tolits"
+    "dog_name": "Burner"
   }
 ];
 
