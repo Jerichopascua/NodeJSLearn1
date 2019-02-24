@@ -11,6 +11,8 @@ MongoClient.connect(url, function (err, db) {
 	//ensure we've connected
 	assert.equal(null, err);
 
+	
+
 	var bankData = db.collection('bank_data');
 
 	bankData.insertOne({
